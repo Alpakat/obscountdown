@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    import style from "../index.css"
+</script>
+
+<div class="centerOnPage">
+	<h1>
+		Schaue in das Readme von <a href="https://github.com/Alpakat/obscountdown"
+			>https://github.com/Alpakat/obscountdown</a
+		>
+	</h1>
+</div>
